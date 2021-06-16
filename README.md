@@ -12,14 +12,19 @@ What things you need to install the software and how to install them
 
 ### Samples 
 
+Welcome
 ```
 deno run https://deno.land/std@0.97.0/examples/welcome.ts
 ```
 
 Fetch a webpage
-
 ```
 deno run --allow-net=example.com https://deno.land/std@0.98.0/examples/curl.ts https://example.com
+```
+
+Read a file
+```
+deno run --allow-read .\src\cat.ts O:\tmp\clip.md
 ```
 
 ## Versioning
