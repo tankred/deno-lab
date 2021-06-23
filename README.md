@@ -27,6 +27,11 @@ Read a file
 deno run --allow-read .\src\cat.ts O:\tmp\clip.md
 ```
 
+TCP server
+```
+deno run --allow-net https://deno.land/std@0.99.0/examples/echo_server.ts
+```
+
 ## Versioning
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/tankred/deno-lab/tags).

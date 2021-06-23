@@ -8,6 +8,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Released]
 
+## [0.1.4] - 2021-06-23
+### Changed
+- TCP server (readme)
+
 ## [0.1.3] - 2021-06-16
 ### Added
 - Read file
