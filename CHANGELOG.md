@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.6] - 2021-07-12
+### Added
+- External module assert
+
 ## [0.2.5] - 2021-07-08
 ### Added
 - Execute webassembly
