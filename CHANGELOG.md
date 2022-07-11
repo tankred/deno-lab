@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [Released]
+
+## [0.3.0] - 2022-07-11
+### Changed
+- Merge cli
+
 ## [0.2.7] - 2021-07-14
 ### Added
 - SRI hash (lock.json)
@@ -33,8 +39,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.2.1] - 2021-07-01
 ### Added
 - deno welcome.ts
-
-## [Released]
 
 ## [0.2.0] - 2021-06-30
 ### Changed
