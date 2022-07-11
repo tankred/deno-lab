@@ -8,7 +8,39 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Released]
 
-## [0.1.4] - 2021-06-30
+## [0.3.0] - 2022-07-11
+### Changed
+- Merge cli
+
+## [0.2.7] - 2021-07-14
+### Added
+- SRI hash (lock.json)
+
+## [0.2.6] - 2021-07-12
+### Added
+- External module assert
+
+## [0.2.5] - 2021-07-08
+### Added
+- Execute webassembly
+
+## [0.2.4] - 2021-07-06
+### Changed
+- main.ts
+
+## [0.2.3] - 2021-07-05
+### Added
+- main.ts
+
+## [0.2.2] - 2021-07-02
+### Changed
+- cat welcome.ts | deno run -
+
+## [0.2.1] - 2021-07-01
+### Added
+- deno welcome.ts
+
+## [0.2.0] - 2021-06-30
 ### Changed
 - deno help
 

@@ -20,6 +20,7 @@ What things you need to install the software and how to install them
 Welcome
 ```
 deno run https://deno.land/std@0.97.0/examples/welcome.ts
+cat welcome.ts | deno run -
 ```
 
 Fetch a webpage
