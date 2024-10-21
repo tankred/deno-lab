@@ -8,6 +8,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Released]
 
+## [0.3.1] - 2022-07-12
+### Changed
+- deno run --watch src/main.ts 
+
 ## [0.3.0] - 2022-07-11
 ### Changed
 - Merge cli
